@@ -25,7 +25,7 @@
 |------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------|
 | **Sample Code**                          | 이 것은 AAS 참조모델 개발을 위해 설계된 GitHub 사용 예시입니다. 참고 부탁드립니다.         | [바로가기](https://github.com/kosmo-jininfra/Source_Code.git) |
 | **AAS_001-Model_Test**                   | AAS 참조모델 Test Repository 입니다..                                                     | [바로가기](https://github.com/kosmo-AAS/AAS_001-Model_Test.git) |
-| **QnA**                                  | QnA Repository 입니다.                                                                | [바로가기](https://github.com/your-repo-link) |
+| **QnA**                                  | QnA Repository 입니다.                                                                | [바로가기](https://github.com/kosmo-AAS/QnA.git) |
 
 ---
 
